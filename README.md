@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Deap Learning.
 - 🌱 I’m currently learning IC and ML.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... If you need to contact me, with this email: 349574377@qq.com
 
 <!---
 KylePan-01/KylePan-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
