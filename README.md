@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KylePan-01
 - 👀 I’m interested in Chiplet, NN-accelerator, NoC.
 - 🌱 I’m currently learning Federated Learning.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... If you need to contact me, with this email: pankai22s@ict.ac.cn
 
 <!---
