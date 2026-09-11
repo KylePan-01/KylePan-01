@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KylePan-01
-- 👀 I’m interested in Robot Learning.
-- 🌱 I’m currently learning reforcement learning on EAI.
-- 📫 How to reach me ... If you need to contact me, with this email: pankai22@mails.ucas.ac.cn
+- 👀 I’m interested in Robot Learning and Computer Vision.
+- 🌱 I’m currently learning reforcement learning on EAI and Object Detection.
+- 📫 How to reach me ... If you need to contact me, with this email: kylepan@buaa.edu.cn
 
 <!---
 KylePan-01/KylePan-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
