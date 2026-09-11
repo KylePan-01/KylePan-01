@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KylePan-01
+- 👋 Hi, I’m KylePan, an Ph.D at BUAA, Beijing, China.
 - 👀 I’m interested in Robot Learning and Computer Vision.
 - 🌱 I’m currently learning reforcement learning on EAI and Object Detection.
 - 📫 How to reach me ... If you need to contact me, with this email: kylepan@buaa.edu.cn
